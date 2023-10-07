@@ -45,6 +45,7 @@
     width: 329px;
     height: 525px;
     border-radius: 24px;
+    border-radius: 24px;
     padding-right: 44px;
     padding-left: 44px;
     padding-bottom: 50px;
@@ -93,8 +94,20 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
+    margin: auto;
     &:hover{
         cursor: pointer;
     }
 }
 
+.product_div_color_pink{
+    background: #FFB8CA;
+}
+
+.product_div_color_yellow {
+    background: #F0D1A5;
+}
+
+.product_div_color_green {
+    background: #C2E297;
+}
